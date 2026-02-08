@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; max-width: 600px; margin: 20px auto; }
+textarea { width: 100%; height: 50px; margin-bottom: 10px; }
+button { padding: 5px 10px; }
+#feed div { border-bottom: 1px solid #ccc; padding: 5px 0; }
